@@ -1,0 +1,25 @@
+body {
+    background: url(../images/blue.jpg); 
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    text-align: center;
+    background: rgba(105, 1, 32, 0.699);
+    color: rgb(199, 199, 183);
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.card-header {
+    background: rgba(105, 1, 32, 0.699);
+    color: rgb(199, 199, 183);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.card-body {
+    background: teal;
+    color: beige;
+}
+
